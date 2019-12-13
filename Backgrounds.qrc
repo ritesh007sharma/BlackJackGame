@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Backgrounds">
+        <file>startBackground</file>
+        <file>gameBackground</file>
+        <file>white</file>
+        <file>Pictures/b1.jpg</file>
+        <file>Pictures/b2.jpg</file>
+        <file>Pictures/sb1.jpg</file>
+        <file>Pictures/sb2.jpg</file>
+        <file>Pictures/sb4.0.png</file>
+    </qresource>
+</RCC>

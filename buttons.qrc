@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>Pictures/redbutton</file>
+        <file>Pictures/orangebutton</file>
+        <file>Pictures/coolblue3</file>
+        <file>Pictures/coolblue4</file>
+        <file>Pictures/cblue.png</file>
+        <file>Pictures/blueButton.png</file>
+        <file>Pictures/greybutton.jpeg</file>
+        <file>Pictures/cool-blue2.png</file>
+        <file>Pictures/cool-grey2.png</file>
+        <file>Pictures/cool-red2.png</file>
+    </qresource>
+</RCC>
